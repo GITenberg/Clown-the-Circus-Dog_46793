@@ -1,4 +1,5 @@
 _repo: Clown-the-Circus-Dog_46793
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hills, Nora Kathleen
@@ -6,6 +7,9 @@ contributor:
     birthdate: 1877
     gutenberg_agent_id: '39514'
     url: http://www.gutenberg.org/2009/agents/39514
+covers:
+- cover_type: archival
+  image_path: 46793-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Vimar, A. (Auguste)
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '4986'
     url: http://www.gutenberg.org/2009/agents/4986
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46793#Clown-the-Circus-Dog
 gutenberg_issued: '2014-09-07'
 gutenberg_type: Text
 identifiers:
